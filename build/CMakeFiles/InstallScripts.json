@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/dsda-doom/prboom2/build/cmake_install.cmake",
+		"/data/data/com.termux/files/home/dsda-doom/prboom2/build/data/cmake_install.cmake",
+		"/data/data/com.termux/files/home/dsda-doom/prboom2/build/src/cmake_install.cmake",
+		"/data/data/com.termux/files/home/dsda-doom/prboom2/build/ICONS/cmake_install.cmake",
+		"/data/data/com.termux/files/home/dsda-doom/prboom2/build/packaging/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
