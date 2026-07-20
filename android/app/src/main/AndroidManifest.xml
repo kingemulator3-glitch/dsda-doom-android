@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
-        android:label="DSDA-Doom"
-        android:theme="@style/AppTheme">
+        android:label="DSDA-Doom">
 
         <activity
             android:name=".MainActivity"
